@@ -10,6 +10,10 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+
+            Console.WriteLine("test2");
+
 
         }
     }
